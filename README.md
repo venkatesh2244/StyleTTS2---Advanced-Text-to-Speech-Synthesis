@@ -158,4 +158,4 @@ This project is based on the [StyleTTS2](https://github.com/yl4579/StyleTTS2) re
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+ MIT License
