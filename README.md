@@ -1,4 +1,4 @@
-## README.md
+
 
 # StyleTTS2 - Advanced Text-to-Speech Synthesis
 
